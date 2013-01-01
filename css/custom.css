@@ -1,0 +1,131 @@
+body {
+    padding-top: 80px;
+}
+
+/* Cherry Picked from http://rubynaut.net/ */
+
+ul.buttons li {
+    margin: 0; padding: 0; list-style: none; display: inline; float:left;
+}
+
+img.floatLeft {
+    float: left;
+    margin: 4px 8px 4px 0px;
+}
+
+img.img-rounded {
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+}
+
+a.social {
+  display: block;
+  width:  34px;
+  height: 34px;
+  background: url(/img/social_icons.png);
+  margin: 3px;
+}
+
+a.social.github {
+  background: url(/img/social_icons.png) -68px 0px no-repeat;
+}
+
+a.social.github:hover {
+  background: url(/img/social_icons.png) -68px -34px no-repeat;
+}
+
+a.social.linkedin {
+  background: url(/img/social_icons.png) -102px 0px no-repeat;
+}
+
+a.social.linkedin:hover {
+  background: url(/img/social_icons.png) -102px -34px no-repeat;
+}
+
+a.social.twitter {
+  background: url(/img/social_icons.png) 0 0px no-repeat;
+}
+
+a.social.twitter:hover {
+  background: url(/img/social_icons.png) 0px -34px no-repeat;
+}
+
+a.social.rss {
+  background: url(/img/social_icons.png) -34px 0px no-repeat;
+}
+
+a.social.rss:hover {
+  background: url(/img/social_icons.png) -34px -34px no-repeat;
+}
+
+a.social.mail {
+  background: url(/img/social_icons.png) -136px 0px no-repeat;
+}
+
+a.social.mail:hover {
+  background: url(/img/social_icons.png) -136px -34px no-repeat;
+}
+
+a.social.gplus {
+  background: url(/img/social_icons.png) -170px 0px no-repeat;
+}
+
+a.social.gplus:hover {
+  background: url(/img/social_icons.png) -170px -34px no-repeat;
+}
+
+body {
+    margin: 0;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    color: #444444;
+    background-color: #F0F0F0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 38px;
+    line-height: 57px;
+}
+
+h2 {
+    font-size: 32px;
+    line-height: 48px;
+}
+
+h3 {
+    font-size: 26px;
+    line-height: 39px;
+}
+
+h4 {
+    font-size: 22px;
+    line-height: 33px;
+}
+
+h5 {
+    font-size: 18px;
+    line-height: 27px;
+}
+
+h6 {
+    font-size: 16px;
+    line-height: 24px;
+}
+
+p {
+    margin: 0 0 9px;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+input, button, select, textarea {
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}

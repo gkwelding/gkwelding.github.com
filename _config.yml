@@ -1,0 +1,30 @@
+auto: true
+markdown: rdiscount
+pygments: true
+
+title: In The Attic
+
+url: http://www.in-the-attic.co.uk
+
+permalink: /:year/:month/:day/:title/
+
+style:
+    bootstrap_type: flatstrap
+
+author:
+    name: Garry Welding
+    email: gkwelding@gmail.com
+    github: gkwelding
+    twitter: GarryWelding
+    gravatar: http://www.gravatar.com/avatar/5b7d3122776b44cfb18ed7aa865804a1.png
+
+comments:
+    provider: disqus
+    disqus:
+        short_name: intheatticuk
+        
+analytics:
+    provider: google 
+    google: 
+        tracking_id: 'UA-18015420-1'
+        domain: 'in-the-attic.co.uk'
