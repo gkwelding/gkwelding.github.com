@@ -6,7 +6,7 @@ slug: codeigniter-google-maps-library-using-google-maps-api-version-3
 title: CodeIgniter Google Maps Library Using Google Maps API Version 3
 summary: A new Google Maps v3 API library for CodeIgniter including some examples.
 wordpress_id: 118
-image: placeholder.jpg
+image: placeholder.png
 tags:
 - api
 - CodeIgniter

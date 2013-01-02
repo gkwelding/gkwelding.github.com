@@ -6,7 +6,7 @@ slug: my-one-gripe-about-the-nexus-7
 title: My One Gripe About The Nexus 7
 summary: I love my Nexus 7, it's briliant. However, there is one major problem with it.
 wordpress_id: 228
-image: placeholder.jpg
+image: '/my-one-gripe-about-the-nexus-7/nexus7.png'
 tags:
 - Android
 - Nexus 7

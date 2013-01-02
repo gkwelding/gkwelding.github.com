@@ -4,9 +4,9 @@ date: 2012-09-29 11:00:53
 layout: post
 slug: the-internet-has-a-lot-to-answer-for
 title: The internet has a lot to answer for...
-sumamry: The internet has a lot to answer for... It sure as hell does.
+summary: The internet has a lot to answer for... It sure as hell does.
 wordpress_id: 236
-image: placeholder.jpg
+image: '/the-internet-has-a-lot-to-answer-for/internet.png'
 tags:
 - In The Attic
 - Technology

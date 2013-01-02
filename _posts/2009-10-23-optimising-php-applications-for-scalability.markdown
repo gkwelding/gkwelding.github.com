@@ -6,7 +6,7 @@ slug: optimising-php-applications-for-scalability
 title: Optimising PHP Applications For Scalability
 summary: Optimising PHP Applications For Scalability
 wordpress_id: 37
-image: placeholder.jpg
+image: placeholder.png
 tags:
 - optimisation
 - php

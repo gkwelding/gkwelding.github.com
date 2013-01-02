@@ -6,7 +6,7 @@ slug: making-ajax-history-able
 title: Making AJAX history-able!!!
 summary: Making AJAX history-able!!!
 wordpress_id: 34
-image: placeholder.jpg
+image: placeholder.png
 tags:
 - ajax
 - freelance

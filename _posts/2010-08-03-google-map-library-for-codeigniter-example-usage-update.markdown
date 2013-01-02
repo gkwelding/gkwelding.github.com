@@ -6,7 +6,7 @@ slug: google-map-library-for-codeigniter-example-usage-update
 title: Google Map Library For CodeIgniter Example Usage Update
 summary: Ok, a little update the to how to's for the new Google maps library. Including; directions, geolocated RSS feeds, KML overlays and maps for mobile.
 wordpress_id: 122
-image: placeholder.jpg
+image: placeholder.png
 tags:
 - api
 - CodeIgniter

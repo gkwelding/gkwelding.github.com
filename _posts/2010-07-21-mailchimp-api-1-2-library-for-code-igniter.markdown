@@ -6,7 +6,7 @@ slug: mailchimp-api-1-2-library-for-code-igniter
 title: MailChimp API 1.2 Library For Code Igniter
 summary: MailChimp API 1.2 Library For Code Igniter
 wordpress_id: 112
-image: placeholder.jpg
+image: placeholder.png
 tags:
 - api
 - CodeIgniter

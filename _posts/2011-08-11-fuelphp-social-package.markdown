@@ -6,7 +6,7 @@ slug: fuelphp-social-package
 title: FuelPHP Social Package
 summary: A FuelPHP Social Package. Simples.
 wordpress_id: 181
-image: placeholder.jpg
+image: placeholder.png
 tags:
 - api
 - fuelphp

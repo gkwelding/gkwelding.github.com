@@ -6,7 +6,7 @@ slug: wordpress-hack-for-bitly
 title: Wordpress hack for bit.ly
 summary: Wordpress hack for bit.ly
 wordpress_id: 12
-image: placeholder.jpg
+image: placeholder.png
 tags:
 - exciting
 - php

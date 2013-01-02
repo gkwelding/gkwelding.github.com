@@ -6,7 +6,7 @@ slug: death-of-the-sat-nav
 title: Death of the Sat-nav
 summary: Is the smart-phone era signalling the death of the dedicated sat-nav device? Will we start to see companies such as TomTom disappearing shortly?
 wordpress_id: 232
-image: placeholder.jpg
+image: '/the-beginning-of-the-end-for-the-satnav-company/tomtom_android_app.png'
 tags:
 - Android
 - Nexus 7

@@ -23,6 +23,11 @@ img.img-rounded {
     border-radius: 6px;
 }
 
+img.listImage {
+    height: 250px;
+    width: 170px;
+}
+
 a.social {
   display: block;
   width:  34px;

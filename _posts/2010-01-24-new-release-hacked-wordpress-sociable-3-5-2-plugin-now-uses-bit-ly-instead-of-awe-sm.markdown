@@ -6,7 +6,7 @@ slug: new-release-hacked-wordpress-sociable-3-5-2-plugin-now-uses-bit-ly-instead
 title: New release, hacked Wordpress Sociable 3.5.2 plugin now uses bit.ly instead of awe.sm!
 summary: New release, hacked Wordpress Sociable 3.5.2 plugin now uses bit.ly instead of awe.sm!
 wordpress_id: 57
-image: placeholder.jpg
+image: placeholder.png
 tags:
 - Hack
 - Plugins

@@ -6,7 +6,7 @@ slug: codeigniter-cache-helper
 title: CodeIgniter Cache Helper
 summary: CodeIgniter Cache Helper
 wordpress_id: 77
-image: placeholder.jpg
+image: placeholder.png
 tags:
 - clients
 - CodeIgniter
