@@ -9,7 +9,7 @@ url: http://www.in-the-attic.co.uk
 permalink: /:year/:month/:day/:title/
 
 style:
-    bootstrap_type: flatstrap
+    bootstrap_type: bootstrap
 
 author:
     name: Garry Welding
