@@ -6,7 +6,7 @@ slug: neglected
 title: Neglected!
 summary: This blog has been seriously Neglected! Sorry.
 wordpress_id: 203
-image: placeholder.png
+image: '/neglected/neglected.png'
 tags:
 - 650hours
 - exciting
