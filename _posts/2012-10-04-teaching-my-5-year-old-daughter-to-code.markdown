@@ -1,15 +1,15 @@
 ---
-layout: post
-title: Teaching My 5 Year Old Daughter To Code
-category: Business
-tags: Coding Teaching WebDevelopment
-year: 2012
-month: 11
-day: 18
-published: true
-summary: What Happened When I Tried To Teach My 5 Year Old Daughter To Code
-image: placeholder.jpg
 comments: true
+date: 2012-10-04 11:00:58
+layout: post
+slug: teaching-my-5-year-old-daughter-to-code
+title: Teaching my 5 year old daughter to code...
+summary: Teaching my 5 year old daughter to code...
+wordpress_id: 243
+image: placeholder.jpg
+tags:
+- Technology
+- Web Development
 ---
 
 My little girl's shown a keen interest in what I do for a job amongst other things recently. She's a great reader and writer for her age and so I started looking around for a simple scripting language or similar that I could teacher her.
@@ -18,16 +18,35 @@ Now the thing to remember about kids is this, no matter how smart they are they 
 
 I spent the next 45 minutes talking to her about how to make the robot move, at first she thought it was a game and that she had to click on stuff but she quickly got the hang of it. Learning the basic syntax was challenging for her, but fun and rewarding.
 
-![An image of my daughter trying to figure out how many squares to move the robot](/img/posts/teaching-my-5-year-old-daughter-to-code/scripting.jpg "scripting")
+
+[![](/img/posts/scripting-768x1024.jpg)](/img/posts/scripting.jpg)
+
+
+
 
 Here she is trying to figure out how many squares to make the on-screen robot move. We wrote a very simple script to make the robot draw a pyramid (apparently the initial script that gets loaded draws a square and that's just too "boring"), and as expected there were one or two bugs introduced by my daughter miscounting or confusing left and right. She had more fun debugging the code than she did writing it.
 
-This is the program before script execution.
 
-![An image of the program before execution](/img/posts/teaching-my-5-year-old-daughter-to-code/script_before.png "script before")
+
+
+[![](/img/posts/script_before-1024x541.png)](/img/posts/script_before.png)
+
+
+
+
+This is the program before script execution.
+
+
+
+
+[![](/img/posts/script_after-1024x541.png)](/img/posts/script_after.png)
+
+
+
 
 This is the program after execution.
 
-![An image of the program after execution](/img/posts/teaching-my-5-year-old-daughter-to-code/script_after.png "script after")
+
+
 
 In total I spent a good hour going through stuff with her, helping her out and debugging the code with her to produce this. Not bad for a first attempt if I do say so myself. It seems to have caught her interest and has made her very keen to learn more.

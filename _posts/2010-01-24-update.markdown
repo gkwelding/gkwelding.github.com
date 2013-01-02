@@ -1,0 +1,17 @@
+---
+comments: true
+date: 2010-01-24 00:01:41
+layout: post
+slug: update
+title: Update!!!
+summary: Update!!!
+wordpress_id: 53
+image: placeholder.jpg
+tags:
+- php
+- Tech News
+- Web Design
+- Web Development
+---
+
+I know it's been a while since I've posted anything. However, I am working on updating very soon with some interesting things I've been working on so please stay tuned. Things are a bit hectic at the moment so updates will be few and far between.
