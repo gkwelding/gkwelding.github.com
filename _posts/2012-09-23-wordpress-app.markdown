@@ -4,12 +4,14 @@ date: 2012-09-23 09:00:46
 layout: post
 slug: wordpress-app
 title: WordPress App
-summary: WordPress App
+summary: I last checked out the wordpress app for Android over a year ago, it was shockingly shit. What about now?
 wordpress_id: 226
 image: placeholder.jpg
 tags:
 - In The Attic
 ---
+
+### I last checked out the wordpress app for Android over a year ago, it was shockingly shit.
 
 Things drastically changed after my last blog post promising more updates. I changed jobs and I'm now enjoying the sedate and relaxing lifestyle of a contractor!
 

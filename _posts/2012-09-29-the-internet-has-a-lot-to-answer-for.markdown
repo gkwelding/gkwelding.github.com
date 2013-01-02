@@ -4,7 +4,7 @@ date: 2012-09-29 11:00:53
 layout: post
 slug: the-internet-has-a-lot-to-answer-for
 title: The internet has a lot to answer for...
-sumamry: The internet has a lot to answer for...
+sumamry: The internet has a lot to answer for... It sure as hell does.
 wordpress_id: 236
 image: placeholder.jpg
 tags:
@@ -14,7 +14,7 @@ tags:
 - Web Development
 ---
 
-The internet has a lot to answer for... It sure as hell does.
+### The internet has a lot to answer for... It sure as hell does.
 
 What kind of contraption can let me spout my bullshit to over 68 countries, from the US and UK to places as random as Uzbekistan and Azerbaijan...
 

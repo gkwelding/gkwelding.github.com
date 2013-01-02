@@ -1,10 +1,10 @@
 ---
 comments: true
-date: 2011-08-11 23:18:20
+date: 2011-08-11 20:18:20
 layout: post
 slug: fuelphp-social-package
 title: FuelPHP Social Package
-summary: FuelPHP Social Package
+summary: A FuelPHP Social Package. Simples.
 wordpress_id: 181
 image: placeholder.jpg
 tags:
@@ -20,6 +20,8 @@ tags:
 - tips
 - work
 ---
+
+### A FuelPHP Social Package. Simples.
 
 I got to the point this week where I finally started work on my latest project, I'm not giving anything away just yet but stay tuned. However, a few things I decided for this project were as follows; the project should be built in FuelPHP, the project will be built with scalability in mind (memcache was installed before I'd even written a line of code), and finally I didn't want to mess around with authorisation.
 
@@ -39,13 +41,32 @@ Firstly, start off with a login page. Here's one I made earlier...
 
 The href for the login button is created and assigned within the controller and roughly consists of the following:
 
-[sourcecode lang="php"]
-"email");
-        $data['fb_login_url'] = Facebook::instance()->getLoginUrl($fbl_params);
-        $this->response->body = \View::factory('index', $data);
+    <?php
+    /**
+    * The Index Controller.
+    *
+    * Shows register page or logs the user in depending on app permission.
+    *
+    * @package app
+    * @extends Controller
+    */
+    namespace index;
+    use \Social\Facebook;
+    
+    class Controller_Index extends \Controller {
+        /**
+        * The index action.
+        *
+        * @access public
+        * @return void
+        */
+        public function action_index() {
+            $data= array();
+            $fbl_params = array("scope" => “email”);
+            $data['fb_login_url'] = Facebook::instance()->getLoginUrl($fbl_params);
+            $this->response->body = \View::factory(‘index’, $data);
+        }
     }
-}
-[/sourcecode]
 
 This code sits within action_index in my index controller, which is the default controller for my application.
 
@@ -53,30 +74,31 @@ Now the magic bit. Insite app/bootstrap.php look for the following line: Fuel::i
 
 This is where you're going to add your auth checks. Now, probably the best thing to do here is create a new class and have a mthod within that class that performs the check, however, because my auth check was so simple I bypassed this and added the code directly. My app/bootsrap.php file now looks like this:
 
-[sourcecode lang="php"]
-APPPATH.'classes/view.php',
-));
-
-// Register the autoloader
-Autoloader::register();
-
-// Initialize the framework with the config file.
-Fuel::init(include(APPPATH.'config/config.php'));
-
-if($_SERVER['REQUEST_URI'] == '/')
-{
-    if(\Social\Facebook::instance()->check_login()) {
-        \Response::redirect('/dashboard');
+    <?php
+    // Bootstrap the framework DO NOT edit this
+    require_once COREPATH.'bootstrap.php';
+    
+    Autoloader::add_classes(array(
+        // Add classes you want to override here
+        // Example: 'View' => APPPATH.’classes/view.php’,
+    ));
+    
+    // Register the autoloader
+    Autoloader::register();
+    
+    // Initialize the framework with the config file.
+    Fuel::init(include(APPPATH.’config/config.php’));
+    
+    if($_SERVER['REQUEST_URI'] == ‘/’) {
+        if(\Social\Facebook::instance()->check_login()) {
+            \Response::redirect(‘/dashboard’);
+        }
+    } else {
+        if(!\Social\Facebook::instance()->check_login()) {
+            \Response::redirect(‘/’);
+        }
     }
-}
-else {
-    if(!\Social\Facebook::instance()->check_login()) {
-        \Response::redirect('/');
-    }
-}
-
-/* End of file bootstrap.php */
-[/sourcecode]
+    /* End of file bootstrap.php */
 
 And that my friends is that. Those few lines of code handle all of the authentication on the site. If you don't have a valid FB session you get bounced back to the index controller and the index action (Response::redirect('/')) and you have to click the login button again. Failing that you're free to go where ever you wish. In this case if you're logged in you get redirected to the page below:
 

@@ -4,7 +4,7 @@ date: 2012-09-27 11:00:00
 layout: post
 slug: death-of-the-sat-nav
 title: Death of the Sat-nav
-summary: Death of the Sat-nav
+summary: Is the smart-phone era signalling the death of the dedicated sat-nav device? Will we start to see companies such as TomTom disappearing shortly?
 wordpress_id: 232
 image: placeholder.jpg
 tags:
@@ -12,6 +12,8 @@ tags:
 - Nexus 7
 - Technology
 ---
+
+### Is the smart-phone era signalling the death of the dedicated sat-nav device? Will we start to see companies such as TomTom disappearing shortly?
 
 Does anyone actually buy the stand-alone devices anymore? Surely as smartphone adoption becomes more wide-spread people will just stop buying them right? Well, everyone except iPhone users, #iLost anyone?
 
