@@ -104,6 +104,6 @@ And that my friends is that. Those few lines of code handle all of the authentic
 
 [![logged in view](/img/posts/loggedin-1024x480.png)](/img/posts/loggedin.png)
 
-This process is the same for twitter too, just take a look around the package, it's really very simple. Pretty much the only major API calls my code does at the moment is Facebook::instance()->api('/me'); to return the current user and Facebook::instance()->api('/me/friends'); to return the current users friends list (cached in memcache by the way).
+This process is the same for twitter too, just take a look around the package, it's really very simple. Pretty much the only major API calls my code does at the moment is `Facebook::instance()->api('/me');` to return the current user and `Facebook::instance()->api('/me/friends');` to return the current users friends list (cached in memcache by the way).
 
 If you're stuck the only other thing I can recommend is read the docs. The Facebook and Twitter implementations here are nothing more than glorified wrapper for the development tools provided by Twitter and Facebook.

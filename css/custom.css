@@ -1,11 +1,15 @@
 body {
-    padding-top: 80px;
+    padding-top: 50px;
 }
 
 /* Cherry Picked from http://rubynaut.net/ */
 
 ul.buttons li {
-    margin: 0; padding: 0; list-style: none; display: inline; float:left;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: inline;
+    float:left;
 }
 
 img.floatLeft {
@@ -120,7 +124,7 @@ h6 {
 }
 
 p {
-    margin: 0 0 9px;
+    margin-bottom: 32px;
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
     font-size: 16px;
     line-height: 24px;
