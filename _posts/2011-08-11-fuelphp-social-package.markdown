@@ -62,9 +62,9 @@ The href for the login button is created and assigned within the controller and 
         */
         public function action_index() {
             $data= array();
-            $fbl_params = array("scope" => “email”);
+            $fbl_params = array("scope" => "email");
             $data['fb_login_url'] = Facebook::instance()->getLoginUrl($fbl_params);
-            $this->response->body = \View::factory(‘index’, $data);
+            $this->response->body = \View::factory('index', $data);
         }
     }
 
@@ -80,22 +80,22 @@ This is where you're going to add your auth checks. Now, probably the best thing
     
     Autoloader::add_classes(array(
         // Add classes you want to override here
-        // Example: 'View' => APPPATH.’classes/view.php’,
+        // Example: 'View' => APPPATH.'classes/view.php',
     ));
     
     // Register the autoloader
     Autoloader::register();
     
     // Initialize the framework with the config file.
-    Fuel::init(include(APPPATH.’config/config.php’));
+    Fuel::init(include(APPPATH.'config/config.php'));
     
-    if($_SERVER['REQUEST_URI'] == ‘/’) {
+    if($_SERVER['REQUEST_URI'] == '/') {
         if(\Social\Facebook::instance()->check_login()) {
-            \Response::redirect(‘/dashboard’);
+            \Response::redirect('/dashboard');
         }
     } else {
         if(!\Social\Facebook::instance()->check_login()) {
-            \Response::redirect(‘/’);
+            \Response::redirect('/');
         }
     }
     /* End of file bootstrap.php */

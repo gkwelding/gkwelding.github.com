@@ -41,7 +41,7 @@ Needless to say this is probably enough to put anyone off wanting to be employed
 > 
 > - Our clients contract us to put their software vision into practice, using the most suitable tools, methods and resources – inventing anything missing from the package as we go along – to provide the best quality solution delivered inside the agreed time frame._
 > - We offer established processes for delivery, information sharing for project management at all levels and a flexible development methodology that can change quickly in response to market changes & new information, even mid-way through a project._
-> - We bring vision, cunning, an urge to deliver the best solution and even a little magic – transforming existing technologies to our clients’ requirements. We know you’ll like working with us!_
+> - We bring vision, cunning, an urge to deliver the best solution and even a little magic – transforming existing technologies to our clients' requirements. We know you'll like working with us!_
 
 I have to admit, we have some amazing looking clients already, some generous investment and some cool products in the works. Exciting times ahead.
 
