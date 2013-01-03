@@ -6,7 +6,7 @@ slug: a-brief-defene-of-sony
 title: A Brief Defence Of Sony
 summary: A Brief Defence Of Sony
 wordpress_id: 146
-image: placeholder.png
+image: '/a-brief-defene-of-sony/sony.png'
 tags:
 - Hack
 - Playstaion 3

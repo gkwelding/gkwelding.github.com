@@ -6,7 +6,7 @@ slug: fuelphp-social-package
 title: FuelPHP Social Package
 summary: A FuelPHP Social Package. Simples.
 wordpress_id: 181
-image: placeholder.png
+image: '/fuelphp-social-package/fuel.png'
 tags:
 - api
 - fuelphp
@@ -37,7 +37,7 @@ To cut a long story short I took the Facebook PHP SDK, put a wrapper around it a
 
 Firstly, start off with a login page. Here's one I made earlier...
 
-[![app login](/img/posts/login-1024x480.png)](/img/posts/login.png)
+[![app login](/img/posts/fuelphp-social-package/login.png)](/img/posts/fuelphp-social-package/login.png)
 
 The href for the login button is created and assigned within the controller and roughly consists of the following:
 
@@ -102,7 +102,7 @@ This is where you're going to add your auth checks. Now, probably the best thing
 
 And that my friends is that. Those few lines of code handle all of the authentication on the site. If you don't have a valid FB session you get bounced back to the index controller and the index action (Response::redirect('/')) and you have to click the login button again. Failing that you're free to go where ever you wish. In this case if you're logged in you get redirected to the page below:
 
-[![logged in view](/img/posts/loggedin-1024x480.png)](/img/posts/loggedin.png)
+[![logged in view](/img/posts/fuelphp-social-package/loggedin.png)](/img/posts/fuelphp-social-package/loggedin.png)
 
 This process is the same for twitter too, just take a look around the package, it's really very simple. Pretty much the only major API calls my code does at the moment is `Facebook::instance()->api('/me');` to return the current user and `Facebook::instance()->api('/me/friends');` to return the current users friends list (cached in memcache by the way).
 

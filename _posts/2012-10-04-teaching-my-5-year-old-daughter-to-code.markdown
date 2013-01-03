@@ -20,15 +20,15 @@ Now the thing to remember about kids is this, no matter how smart they are they 
 
 I spent the next 45 minutes talking to her about how to make the robot move, at first she thought it was a game and that she had to click on stuff but she quickly got the hang of it. Learning the basic syntax was challenging for her, but fun and rewarding.
 
-[![](/img/posts/scripting-768x1024.jpg)](/img/posts/scripting.jpg)
+[![](/img/posts/teaching-my-5-year-old-daughter-to-code/scripting.jpg)](/img/posts/teaching-my-5-year-old-daughter-to-code/scripting.jpg)
 
 Here she is trying to figure out how many squares to make the on-screen robot move. We wrote a very simple script to make the robot draw a pyramid (apparently the initial script that gets loaded draws a square and that's just too "boring"), and as expected there were one or two bugs introduced by my daughter miscounting or confusing left and right. She had more fun debugging the code than she did writing it.
 
-[![](/img/posts/script_before-1024x541.png)](/img/posts/script_before.png)
+[![](/img/posts/teaching-my-5-year-old-daughter-to-code/script_before.png)](/img/posts/teaching-my-5-year-old-daughter-to-code/script_before.png)
 
 This is the program before script execution.
 
-[![](/img/posts/script_after-1024x541.png)](/img/posts/script_after.png)
+[![](/img/posts/teaching-my-5-year-old-daughter-to-code/script_after.png)](/img/posts/teaching-my-5-year-old-daughter-to-code/script_after.png)
 
 This is the program after execution.
 

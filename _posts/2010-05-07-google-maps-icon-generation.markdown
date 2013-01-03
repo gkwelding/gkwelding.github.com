@@ -6,7 +6,7 @@ slug: google-maps-icon-generation
 title: Google Maps Icon Generation
 summary: Google Maps Icon Generation
 wordpress_id: 89
-image: placeholder.png
+image: '/google-maps-icon-generation/google.png'
 tags:
 - google api
 - google maps

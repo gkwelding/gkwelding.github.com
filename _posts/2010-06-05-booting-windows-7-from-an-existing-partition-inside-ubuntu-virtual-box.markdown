@@ -6,7 +6,7 @@ slug: booting-windows-7-from-an-existing-partition-inside-ubuntu-virtual-box
 title: Booting Windows 7 From An Existing Partition Inside Ubuntu Virtual Box
 summary: A quick guide on how to boot a windows partition on your hard-drive from an Ubuntu installation located on another partition on the same drive.
 wordpress_id: 104
-image: placeholder.png
+image: '/booting-windows-7-from-an-existing-partition-inside-ubuntu-virtual-box/windows_ubuntu.png'
 tags:
 - Linux
 - ubuntu
