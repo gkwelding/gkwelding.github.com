@@ -2,8 +2,6 @@ body {
     padding-top: 50px;
 }
 
-/* Cherry Picked from http://rubynaut.net/ */
-
 ul.buttons li {
     margin: 0;
     padding: 0;
@@ -137,4 +135,56 @@ p {
 
 input, button, select, textarea {
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+
+li#search {
+    position: relative;
+}
+
+li#search h6 {
+    font-size: 12px;
+    line-height: 18px;
+}
+
+li#search p {
+    font-size: 12px;
+    line-height: 18px;
+    margin: 0;
+}
+
+li#search input {
+    width: 350px;
+    margin-top: 5px;
+}
+
+li#search hr {
+    margin-top: 5px;
+}
+
+ol#search-results li {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.navbar .nav > #search-results::before {
+    position: absolute;
+    top: -7px;
+    left: 9px;
+    display: inline-block;
+    border-right: 7px solid transparent;
+    border-bottom: 7px solid #CCC;
+    border-left: 7px solid transparent;
+    border-bottom-color: rgba(0, 0, 0, 0.2);
+    content: '';
+}
+
+.navbar .nav > #search-results::after {
+    position: absolute;
+    top: -6px;
+    left: 10px;
+    display: inline-block;
+    border-right: 6px solid transparent;
+    border-bottom: 6px solid white;
+    border-left: 6px solid transparent;
+    content: '';
 }
