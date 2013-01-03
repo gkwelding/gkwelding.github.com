@@ -8,9 +8,6 @@ url: http://www.in-the-attic.com
 
 permalink: /:year/:month/:day/:title/
 
-style:
-    bootstrap_type: bootstrap
-
 author:
     name: Garry Welding
     email: gkwelding@gmail.com
