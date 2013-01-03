@@ -18,7 +18,7 @@ tags:
 - php
 ---
 
-### CodeIgniter Google Map Library And HTML5 Geolocation
+#####  CodeIgniter Google Map Library And HTML5 Geolocation
 
 I was asked in this forum topic, [http://codeigniter.com/forums/viewthread/164367/](http://codeigniter.com/forums/viewthread/164367/), for recommendations on integration the HTML 5 geolocation functionality with this Google Maps API Library for CI. I have posted a response to that thread, but I guess I'll repeat myself here too...
 

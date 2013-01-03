@@ -13,7 +13,7 @@ tags:
 - tips
 ---
 
-### Optimising PHP Applications For Scalability
+#####  Optimising PHP Applications For Scalability
 
 - **Tip Number 1** - Make http://www.phpbench.com/ your best friend, and remember, if your app needs to scale to large amount of simultaneous users then even the stuff that seems make very little difference on paper can actualy make a huge difference in real life scenarios.
 - **Tip Number 2** - From PHPBench it is possible to see that the difference between single quotes (') and double quotes (") in string declaration now appear to be negligible, however, I'm a little wary of this so would recommend always using single quotes, it can't hurt can it, plus it'll still take some of the strain away from the server as the PHP parser won't have to scour strings for variables.

@@ -21,7 +21,7 @@ tags:
 - work
 ---
 
-### A FuelPHP Social Package. Simples.
+#####  A FuelPHP Social Package. Simples.
 
 I got to the point this week where I finally started work on my latest project, I'm not giving anything away just yet but stay tuned. However, a few things I decided for this project were as follows; the project should be built in FuelPHP, the project will be built with scalability in mind (memcache was installed before I'd even written a line of code), and finally I didn't want to mess around with authorisation.
 

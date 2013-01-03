@@ -12,7 +12,7 @@ tags:
 - Web Development
 ---
 
-### So I decided to try and teach my 5 year old daughter some basic logical thinking and development principals.
+#####  So I decided to try and teach my 5 year old daughter some basic logical thinking and development principals.
 
 My little girl's shown a keen interest in what I do for a job amongst other things recently. She's a great reader and writer for her age and so I started looking around for a simple scripting language or similar that I could teacher her.
 

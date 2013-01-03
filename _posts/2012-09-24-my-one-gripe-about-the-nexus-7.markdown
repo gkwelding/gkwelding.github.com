@@ -13,7 +13,7 @@ tags:
 - Usability
 ---
 
-### I love my Nexus 7, it's briliant.
+#####  I love my Nexus 7, it's briliant.
 
 I've been using the Nexus 7 for some time now and I absolutely love it. The tablet's size is spot on. My wife has the new version iPad and to be honest I find the size a little restricting. It's perfect for her as she sits on the sofa catching up on email and looking through Facebook. I use mine all over the place though, in the house, out of the house, on the move, in meetings etc... and for me, after having played around with the iPad for a bit, I know I'd find the size of it restricting and frustrating.
 

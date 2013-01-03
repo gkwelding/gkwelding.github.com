@@ -17,7 +17,7 @@ tags:
 - tips
 ---
 
-### CodeIgniter GMaps Library
+#####  CodeIgniter GMaps Library
 
 A project I completed recently was built pretty much from scratch in CI. This project required some pretty complex Google maps integration. Ok, cool I thought, I'll do a search and there'll be a great library for it in CI, there's got to be... Erm... Ok, no. So I utilised one from a project built around CI, Kohana. They had a Google maps library, but it wouldn't work in CI because they'd made some pretty fundamental changes to the way Kohana works. However, I've rebuilt the library so it works in CI and I've added in the database caching functionality as that's pretty critical to any Google maps tool, I was pretty surprised the Kohana's library didn't have one. Either way, I've given instructions on how to install it below along with some usage instructions. The files are included below as a zip file for download.
 

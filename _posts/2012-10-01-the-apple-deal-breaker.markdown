@@ -15,7 +15,7 @@ tags:
 - Usability
 ---
 
-### The Apple Deal Breaker. They're supposedly leaders in UI and UX. Not in my eyes.
+#####  The Apple Deal Breaker. They're supposedly leaders in UI and UX. Not in my eyes.
 
 My wife has a brand new iPad, running IOS6 no less. Now, having never owned an Apple product before I have no idea if this is the way it's always been or not, but I've spotted a major flaw that would bean absolute deal breaker in terms of usability for me. It's simple, so simple I can't see why they would have chosen to do it...
 
@@ -23,7 +23,7 @@ Upper and lower case letters on the onscreen keyboard. On my Nexus 7, when I'm i
 
 Whatever happened to the principal of "don't make me think"?
 
-#### UPDATE: after a comment below I went and checked my wife's iPad, sure enough, it does what I said.
+##### # UPDATE: after a comment below I went and checked my wife's iPad, sure enough, it does what I said.
 
 [![](/img/posts/the-apple-deal-breaker/IMG_20121004_214010.png)](/img/posts/the-apple-deal-breaker/IMG_20121004_214010.png)
 

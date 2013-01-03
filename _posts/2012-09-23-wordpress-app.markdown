@@ -11,7 +11,7 @@ tags:
 - In The Attic
 ---
 
-### I last checked out the wordpress app for Android over a year ago, it was shockingly shit.
+#####  I last checked out the wordpress app for Android over a year ago, it was shockingly shit.
 
 Things drastically changed after my last blog post promising more updates. I changed jobs and I'm now enjoying the sedate and relaxing lifestyle of a contractor!
 

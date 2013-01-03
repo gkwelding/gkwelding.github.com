@@ -22,7 +22,7 @@ tags:
 - work
 ---
 
-### How did your start-up start? Here's the story of mine.
+#####  How did your start-up start? Here's the story of mine.
 
 I got involved in a little side discussion last night at our first board meeting. We ended up discussing the external factors that pushed us down the route of working for ourselves, of starting up our own business and being our own bosses.
 
@@ -37,7 +37,7 @@ I think we all pretty much agreed that if it wasn't from the experiences we'd ha
 
 Needless to say this is probably enough to put anyone off wanting to be employed! As such we decided to have a crack at it ourselves. Our experiences have shown us what bad business practices can do to a company and it's employees and we'll strive not to make the same mistakes.
 
-> ### _650hours are specialists in making the complicated appear simple – creating beautiful, easy to use & feature-rich applications for Web 2.0 and Mobile platforms._
+> #####  _650hours are specialists in making the complicated appear simple – creating beautiful, easy to use & feature-rich applications for Web 2.0 and Mobile platforms._
 > 
 > - Our clients contract us to put their software vision into practice, using the most suitable tools, methods and resources – inventing anything missing from the package as we go along – to provide the best quality solution delivered inside the agreed time frame._
 > - We offer established processes for delivery, information sharing for project management at all levels and a flexible development methodology that can change quickly in response to market changes & new information, even mid-way through a project._
@@ -45,15 +45,15 @@ Needless to say this is probably enough to put anyone off wanting to be employed
 
 I have to admit, we have some amazing looking clients already, some generous investment and some cool products in the works. Exciting times ahead.
 
-> ### _What is a Social Communications Agency?_
+> #####  _What is a Social Communications Agency?_
 > 
-> #### We specialise in partnering with companies and organisations to assist them in evolving their Social Communication Strategy and use of Social Platforms, to:
+> ##### # We specialise in partnering with companies and organisations to assist them in evolving their Social Communication Strategy and use of Social Platforms, to:
 >
 >  - promote their brand(s);_
 >  - increase company awareness;_
 >  - support specific PR, marketing and sales activity._
-> #### We protect your Brand name; conforming to your Branding guidelines and corporate messaging policy at all times;
-> #### We support you all the way, with:
+> ##### # We protect your Brand name; conforming to your Branding guidelines and corporate messaging policy at all times;
+> ##### # We support you all the way, with:
 >
 >  - a dedicated project manager, development lead and design lead allocated to you;
 >  - our in-house Quality Assurance team;

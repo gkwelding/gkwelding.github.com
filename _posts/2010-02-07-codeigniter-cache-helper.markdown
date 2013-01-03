@@ -19,7 +19,7 @@ tags:
 - tips
 ---
 
-### CodeIgniter Cache Helper
+#####  CodeIgniter Cache Helper
 
 Whilst working on a project this weekend I came across the need to be able to delete a CodeIgniter cache file for a specific page at the instance of a database INSERT/UPDATE/DELETE. Surprisingly there is no other way of doing this than finding the cache file itself in the file system and deleting it manually. Kind of sucks really.
 

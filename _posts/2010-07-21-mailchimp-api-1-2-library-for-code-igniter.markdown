@@ -16,7 +16,7 @@ tags:
 - php
 ---
 
-### MailChimp API 1.2 Library For Code Igniter
+#####  MailChimp API 1.2 Library For Code Igniter
 
 This isn't a library of my own doing as such, but is instead a wrapper for the MailChimp API 1.2 that can be found here [http://www.mailchimp.com/api/downloads/](http://www.mailchimp.com/api/downloads/) (the php version). I take no credit for the API itself just the wrapper to make it CI compatible.
 

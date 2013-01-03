@@ -13,7 +13,7 @@ tags:
 - php
 ---
 
-### Google Maps Icon Generation
+#####  Google Maps Icon Generation
 
 I recently published an article on a library I'd written for CodeIgniter for generating Google maps to display on your CI projects.
 

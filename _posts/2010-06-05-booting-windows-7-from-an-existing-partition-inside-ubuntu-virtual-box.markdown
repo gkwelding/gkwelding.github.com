@@ -14,7 +14,7 @@ tags:
 - windows 7
 ---
 
-### Booting Windows 7 From An Existing Partition Inside Ubuntu Virtual Box
+#####  Booting Windows 7 From An Existing Partition Inside Ubuntu Virtual Box
 
 Ok, this week presented a hell of a problem. Set up my laptop to dual boot Windows 7 and Ubuntu 10.04 Lucid Lynx. I've been using it pretty successfully as my development environment for about a week now, but something was annoying the hell out of me, every time I want to get into my Windows 7 installation for something I had to close down Ubuntu, restart the laptop and boot into Windows then do the same to get back to Ubuntu. Needless to say, tedious!
 

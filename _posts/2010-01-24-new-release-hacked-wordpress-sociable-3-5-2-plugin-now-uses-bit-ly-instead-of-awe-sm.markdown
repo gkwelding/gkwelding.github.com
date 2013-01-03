@@ -14,7 +14,7 @@ tags:
 - Wordpress
 ---
 
-### New release, hacked Wordpress Sociable 3.5.2 plugin now uses bit.ly instead of awe.sm!
+#####  New release, hacked Wordpress Sociable 3.5.2 plugin now uses bit.ly instead of awe.sm!
 
 I've had a surprising amount of interest in an old post on this site about hacking the sociable plugin to use bit.ly instead of awe.sm. Now the example used in the post was an older version of sociable and there have been a few releases since. In this post I will show you what to change in the latest version of sociable (3.5.2) and at the end I will provide a download link to the modifies plugin files that have been modified and released by myself.
 

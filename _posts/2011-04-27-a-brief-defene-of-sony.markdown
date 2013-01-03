@@ -15,7 +15,7 @@ tags:
 - Wii
 ---
 
-### Ok, save the lynch mob until you've read the whole thing ok...
+#####  Ok, save the lynch mob until you've read the whole thing ok...
 
 Don't get me wrong, I'm not defending Sony at all. Losing 75 million users data to a hacker is just amateurish, especially if they had to get in external 'experts' to hold their hands and figure out what happened.
 

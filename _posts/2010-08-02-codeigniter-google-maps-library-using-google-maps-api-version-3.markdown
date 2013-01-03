@@ -16,7 +16,7 @@ tags:
 - php
 ---
 
-### CodeIgniter Google Maps Library Using Google Maps API Version 3
+#####  CodeIgniter Google Maps Library Using Google Maps API Version 3
 
 Ok, it's finally here. My Code Igniter library using Google Maps API version 3.
 
@@ -73,4 +73,4 @@ Your template file should look similar to the following...
 
 This library supports almost every feature present in the new google maps api version 3 and as such is incredibly full featured, over time I will be writing tutorials on how to do certain thing using this library so please stay tuned.
 
-### [CODEIGNITER GMAPS LIBRARY GITHUB PAGE](https://github.com/gkwelding/GoogleMapsV3CI)
+#####  [CODEIGNITER GMAPS LIBRARY GITHUB PAGE](https://github.com/gkwelding/GoogleMapsV3CI)

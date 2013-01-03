@@ -16,11 +16,11 @@ tags:
 - php
 ---
 
-### Google Map Library For CodeIgniter Example Usage Update
+#####  Google Map Library For CodeIgniter Example Usage Update
 
 Ok, a little update the to how to's for the new Google maps library.
 
-#### Directions? No problem...
+##### # Directions? No problem...
 
     <?php 
     $this->load->library('GMap');
