@@ -1,15 +1,16 @@
 <div class="row">	
-	<div class="span9 column">
-		<p><h1>{{ page.title }}</h1></p>	
+	<div class="span7 column">
+		<h1>{{ page.title }}</h1>
 	</div>
 </div>		
 <div class="row">	
-	<div class="span6 column">
-		<h5><strong>{{ page.date | date: "%B %e, %Y" }} <small>. {{ page.category }} . <a href="{{ site.url }}{{ page.url }}#disqus_thread" data-disqus-identifier="{{ page.url }}">Comments</a></small></strong>
-		<br/><small>Tags: {% for tag in page.tags %} <a href="/tags/{{ tag }}" title="View posts tagged with &quot;{{ tag }}&quot;"><u>{{ tag }}</u></a>  {% if forloop.last != true %} {% endif %} {% endfor %} </small><br/><br/>
-		<a href="https://twitter.com/share" class="twitter-share-button" data-via="{{ site.author.twitter }}">Tweet</a> <g:plusone size="medium"></g:plusone></h5>
-	</div>		
-	<div class="span3 column">
-		<p class="pull-right">{% if page.previous.url %} <a href="{{page.previous.url}}" title="Previous Post: {{page.previous.title}}"><i class="icon-chevron-left"></i></a> 	{% endif %}   {% if page.next.url %} 	<a href="{{page.next.url}}" title="Next Post: {{page.next.title}}"><i class="icon-chevron-right"></i></a> 	{% endif %} </p>  
-	</div>	
+	<div class="span7 column">
+		<h5>
+        {{ page.date | date: "%B %e, %Y" }} <small>. {{ page.category }} . <a href="{{ site.url }}{{ page.url }}#disqus_thread" data-disqus-identifier="{{ page.url }}">Comments</a></small>
+		<br/>
+        <small>Tags: {% for tag in page.tags %} <a href="/tags/{{ tag }}" title="View posts tagged with &quot;{{ tag }}&quot;"><u>{{ tag }}</u></a>  {% if forloop.last != true %} {% endif %} {% endfor %} </small>
+        <br/><br/>
+		<a href="https://twitter.com/share" class="twitter-share-button" data-via="{{ site.author.twitter }}">Tweet</a> <g:plusone size="medium"></g:plusone>
+        </h5>
+	</div>
 </div>
