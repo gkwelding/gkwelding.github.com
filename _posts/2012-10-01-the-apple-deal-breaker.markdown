@@ -25,10 +25,10 @@ Whatever happened to the principal of "don't make me think"?
 
 #### UPDATE: after a comment below I went and checked my wife's iPad, sure enough, it does what I said.
 
-[![](/img/posts/IMG_20121004_214010.png)](/img/posts/IMG_20121004_214010.png)
+[![](/img/posts/the-apple-deal-breaker/IMG_20121004_214010.png)](/img/posts/the-apple-deal-breaker/IMG_20121004_214010.png)
 
 Capital letters on screen but small when typing.
 
-[![](/img/posts/IMG_20121004_214026.png)](/img/posts/IMG_20121004_214026.png)
+[![](/img/posts/the-apple-deal-breaker/IMG_20121004_214026.png)](/img/posts/the-apple-deal-breaker/IMG_20121004_214026.png)
 
 Now the weird blue highlight of the "shift key" means it's really capital letters.
