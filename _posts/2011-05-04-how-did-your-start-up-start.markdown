@@ -6,7 +6,7 @@ slug: how-did-your-start-up-start
 title: How did your start-up start?
 summary: How did your start-up start? Here's the story of mine.
 wordpress_id: 153
-image: '/how-did-your-start-up-start/startup.png'
+image: 'how-did-your-start-up-start/startup.png'
 tags:
 - 650hours
 - clients

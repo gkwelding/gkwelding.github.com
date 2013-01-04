@@ -6,7 +6,7 @@ slug: the-beginning-of-the-end-for-the-satnav-company
 title: The beginning of the end for the SatNav company?
 summary: Following on from a previous post, TomTom have released their latest earnings. Opps...
 wordpress_id: 257
-image: '/the-beginning-of-the-end-for-the-satnav-company/tomtom_android_app.png'
+image: 'the-beginning-of-the-end-for-the-satnav-company/tomtom_android_app.png'
 tags:
 - Android
 - Nexus 7

@@ -6,7 +6,7 @@ slug: codeigniter-gmaps-library
 title: CodeIgniter GMaps Library
 summary: CodeIgniter GMaps Library
 wordpress_id: 83
-image: '/codeigniter-gmaps-library/google.png'
+image: 'codeigniter-gmaps-library/google.png'
 tags:
 - CodeIgniter
 - freelance
