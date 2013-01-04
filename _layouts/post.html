@@ -26,7 +26,9 @@ layout: layout
               <i class="icon-calendar"></i> {{ page.date | date: "%B %e, %Y" }}
               | <i class="icon-comment"></i> <a href="{{ site.url }}{{ page.url }}#disqus_thread" data-disqus-identifier="{{ page.url }}"></a>     
               <br />
-              <i class="icon-tags"></i> Tags :{% for tag in page.tags %} <a href="/tags/{{ tag }}" rel="tooltip" title="View pages tagged with &quot;{{ tag }}&quot;"><span class="label label-info">{{ tag }}</span></a>  {% if forloop.last != true %} {% endif %} {% endfor %}		            
+              <i class="icon-tags"></i> Tags :{% for tag in page.tags %} <a href="/tags/{{ tag }}" rel="tooltip" title="View pages tagged with &quot;{{ tag }}&quot;"><span class="label label-info">{{ tag }}</span></a>  {% if forloop.last != true %} {% endif %} {% endfor %}
+              <br />
+              <a href="https://twitter.com/share" class="twitter-share-button" data-via="{{ site.author.twitter }}">Tweet</a> <g:plusone size="medium"></g:plusone></h5>
             </p>
         </div>
     </div>
