@@ -71,13 +71,13 @@ good to go with a full Ruby and Jekyll install on your windows system!
 ##### Setting up your Github repository
 
 If you nip over to [https://github.com/gkwelding](https://github.com/gkwelding) 
-you will see, in there, exists a repository called gkwelding@github.com. That 
+you will see, in there, exists a repository called gkwelding.github.com. That 
 single repository is all that is needed to run github pages. Anything you now 
 push to this repo will be parsed by Jekyll and Liquid and spat out as a rendered 
 HTML page. You can simulate this process locally for testing and development.
 
 As a starting point I would recommend cloning my github repository for 
-[gkwelding@github.com](https://github.com/gkwelding/gkwelding.github.com). 
+[gkwelding.github.com](https://github.com/gkwelding/gkwelding.github.com). 
 You can clone this to whatever directory you want, but I cloned mine to 
 C:\gkwelding.github.com. Then go to `Start > All Programs > Ruby > Start Command Prompt With Ruby` 
 and browse to the directory where you just cloned the repository to, 
@@ -159,7 +159,7 @@ comment system provided by Disqus.
 The single most difficult part of the entire process was getting my posts out of 
 Wordpress, comments and all, and importing them into a usable Jekyll format. None 
 of the Wordpress to Jekyll plugins work on the newer versions of Wordpress. Instead 
-I happened upon a lovely python script called [exitwp](https://github.com/thomasf/exitwp}. 
+I happened upon a lovely python script called [exitwp](https://github.com/thomasf/exitwp). 
 Just follow the instructions and all will be good with the world!
 
 For me it was a case of cloning this repo onto my Ubuntu box. Taking an export of 
