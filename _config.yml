@@ -24,4 +24,4 @@ analytics:
     provider: google 
     google: 
         tracking_id: 'UA-18015420-1'
-        domain: 'in-the-attic.co.uk'
+        domain: 'in-the-attic.com'
