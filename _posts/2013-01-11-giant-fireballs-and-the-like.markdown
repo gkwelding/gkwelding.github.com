@@ -55,7 +55,7 @@ This takes some rearranging though and the assumption that V = (40m<sup>3</sup> 
 assuming that the blast radius will create a perfect half sphere (a big assumption). 
 The equation to arrange looks like this then - 80m<sup>3</sup> = <sup>4</sup>&frasl;<sub>3</sub>&Pi;r<sup>3</sup>. 
 
-The re-arrange equation looks like: r<sup>3</sup> = <sup>80m<sup>3</sup></sup>&frasl;<sub><sup>4</sup>&frasl;<sub>3</sub>&Pi;r</sub>.
+The re-arranged equation looks like: r<sup>3</sup> = <sup>80m<sup>3</sup></sup>&frasl;<sub><sup>4</sup>&frasl;<sub>3</sub>&Pi;</sub>.
 
 After working out the right hand side we get r<sup>3</sup> = 19m<sup>3</sup>. I 
 offended mathematicians everywhere with this by assuming &Pi; was 3.142. Sorry. 
