@@ -24,7 +24,7 @@ Some prior knowledge, it's easy to lookup online:
 ##### The problem
 
 Driving to work the other morning, at one of the petrol stations I drive past, I 
-noticed something I'd never noticed before. In a locked cacge at one of the far 
+noticed something I'd never noticed before. In a locked cage at one of the far 
 ends of the forecourt is approximately 10 propane gas bottles. This got me 
 wondering whether, if they all went up at the same time, if they were a sufficient 
 distance from the pumps and people using the forecourt, and whether that's why 
@@ -40,7 +40,7 @@ A quick look on Google maps shows the cage, and a quick blast with the measuring
 tells me this cage is approximately 25m from the main forecourt.
 
 The next question is, if one canister exploded how big would that explosion be? 
-Doin the simple maths of 15 x 9.6 therefore shows us that one "full" tank of 
+Doing the simple maths of 15 x 9.6 therefore shows us that one "full" tank of 
 propane could create a fireball 144 cubic feet, or 4 cubic meters, in volume.
 
 Ok, be we have 10 cylinders here. Lets make the sweeping generalisation that if one 
@@ -49,20 +49,20 @@ Which is 1,440 cubic feet, or 40 cubic meters.
 
 That sounds pretty big. But what does that translate to in terms of distance?
 
-This can be done fairly simply using the following equation: V = <sup>4</sup>&frasl;<sub>3</sub>&prod;r<sup>3</sup>.
+This can be done fairly simply using the following equation: V = <sup>4</sup>&frasl;<sub>3</sub>&Pi;r<sup>3</sup>.
 
 This takes some rearranging though and the assumption that V = (40m<sup>3</sup> x 2) as I'm 
 assuming that the blast radius will create a perfect half sphere (a big assumption). 
-The equation to arrange looks like this then - 80m<sup>3</sup> = <sup>4</sup>&frasl;<sub>3</sub>&prod;r<sup>3</sup>. 
+The equation to arrange looks like this then - 80m<sup>3</sup> = <sup>4</sup>&frasl;<sub>3</sub>&Pi;r<sup>3</sup>. 
 
-The re-arrange equation looks like: r<sup>3</sup> = <sup>80m<sup>3</sup></sup>&frasl;<sub><sup>4</sup>&frasl;<sub>3</sub>&prod;r</sub>.
+The re-arrange equation looks like: r<sup>3</sup> = <sup>80m<sup>3</sup></sup>&frasl;<sub><sup>4</sup>&frasl;<sub>3</sub>&Pi;r</sub>.
 
 After working out the right hand side we get r<sup>3</sup> = 19m<sup>3</sup>. I 
-offended mathematicians everywhere with this by assuming &prod; was 3.142. Sorry. 
+offended mathematicians everywhere with this by assuming &Pi; was 3.142. Sorry. 
 And the good thing here is the <sup>3</sup> cancels out on both sides leaving us 
 with a blast radius of 19m. A whole 6m short of the nearest pump!
 
-##### Conslusion
+##### Conclusion
 
 Although the ensuing fireball would fall short of the forecourt the shockwave wouldn't. 
 
