@@ -6,7 +6,7 @@ slug: teaching-my-5-year-old-daughter-to-code
 title: Teaching my 5 year old daughter to code...
 summary: Teaching my 5 year old daughter to code...
 wordpress_id: 243
-image: '/teaching-my-5-year-old-daughter-to-code/robomind.png'
+image: 'teaching-my-5-year-old-daughter-to-code/robomind.png'
 tags:
 - Technology
 - Web Development

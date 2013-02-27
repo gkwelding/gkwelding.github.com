@@ -6,7 +6,7 @@ slug: codeigniter-google-map-library-and-html5-geolocation
 title: CodeIgniter Google Map Library And HTML5 Geolocation
 summary: Want to use some cool new HTML5 features with my Google Maps library for CodeIgniter? Look here!
 wordpress_id: 125
-image: '/codeigniter-google-map-library-and-html5-geolocation/google.png'
+image: 'codeigniter-google-map-library-and-html5-geolocation/google.png'
 tags:
 - api
 - CodeIgniter

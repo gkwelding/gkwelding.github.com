@@ -2,6 +2,7 @@
 <html class="fuelux" lang="en">
   <head>
     <meta charset="utf-8">
+    <meta http-equiv='Content-Type' content='text/html; charset=utf-8'>
     <title>{{ page.title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Technical Web Development Blog">
@@ -21,18 +22,16 @@
     {% include navigation.html %}
 
     <div class="container">
-        <div class="marketing">
-            <div class="content">
-                <div class="row">
-                    <div class="span7 columns">
-                        {{ content }}
-                    </div>
-                    <div class="span4 columns">
-                         {% include aboutme.html %}
-                    </div>
-                    <div class="span4 columns hidden-phone hidden-tablet">
-                         {% include tag_sidebar.html %}
-                    </div>
+        <div class="content">
+            <div class="row">
+                <div class="span7 columns">
+                    {{ content }}
+                </div>
+                <div class="span4 columns">
+                     {% include aboutme.html %}
+                </div>
+                <div class="span4 columns hidden-phone hidden-tablet">
+                     {% include tag_sidebar.html %}
                 </div>
             </div>
         </div>

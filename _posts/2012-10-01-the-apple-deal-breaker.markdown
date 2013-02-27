@@ -6,7 +6,7 @@ slug: the-apple-deal-breaker
 title: The Apple Deal Breaker
 summary: The Apple Deal Breaker. They're supposedly leaders in UI and UX. Not in my eyes. Here's why I would never own an Apple product.
 wordpress_id: 238
-image: '/the-apple-deal-breaker/apple.png'
+image: 'the-apple-deal-breaker/apple.png'
 tags:
 - Apple
 - iPad

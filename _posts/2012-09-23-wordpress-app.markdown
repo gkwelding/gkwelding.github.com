@@ -6,7 +6,7 @@ slug: wordpress-app
 title: WordPress App
 summary: I last checked out the wordpress app for Android over a year ago, it was shockingly shit. What about now?
 wordpress_id: 226
-image: '/wordpress-app/wordpress_app.png'
+image: 'wordpress-app/wordpress_app.png'
 tags:
 - In The Attic
 ---
