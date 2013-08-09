@@ -23,9 +23,9 @@ The first example by [JPEGmini] [1] is a picture of a dog by a river. Lets take 
 * [dog by a river GIMP defaults 80% compression] [7] (483 kb)
 * [dog by a river GIMP defaults 70% compression] [8] (363 kb)
 * [dog by a river GIMP defaults 60% compression] [9] (297 kb)
-* [dog by a river GIMP tweaked 50% compression] [10] (164 kb)
+* [dog by a river GIMP tweaked 50% compression] [10] (193 kb)
 
-Now, [JPEGmini] [1] manages a quite respectable 380kb, and with a quality factor of 80 GIMP2 can only manage 483kb with the default settings. However, if we knock it down a further 10, to a quality factor or 70, then the resulting GIMP2 filesize is 363kb, a full 17kb smaller than [JPEGmini] [1]'s effort. And, to my untrained eye, I can see no difference between the two either. But how low can we go? Apparently as low as a quality factor of 50 apparently, and throwing in some tweaks to smoothing (cranked it all the way up to 1.0) and turning some subsampling option down to "4:2:0 chroma quartered", whatever the hell that means, got the file size down to a miniscule 164kb. And again, I may be commiting designer blasphemy here, I couldn't really see a difference between the [JPEGmini] [1] version and my heavily compressed version.
+Now, [JPEGmini] [1] manages a quite respectable 380kb, and with a quality factor of 80 GIMP2 can only manage 483kb with the default settings. However, if we knock it down a further 10, to a quality factor or 70, then the resulting GIMP2 filesize is 363kb, a full 17kb smaller than [JPEGmini] [1]'s effort. And, to my untrained eye, I can see no difference between the two either. But how low can we go? Apparently as low as a quality factor of 50 apparently, and throwing in some tweaks to smoothing (cranked it up to 0.1) and turning some subsampling option down to "4:2:0 chroma quartered", whatever the hell that means, got the file size down to a miniscule 193 kb. And again, I may be commiting designer blasphemy here, I couldn't really see a difference between the [JPEGmini] [1] version and my heavily compressed version.
 
 Maybe that example image was a fluke? Lets try another image, something completely different.
 
@@ -34,7 +34,7 @@ Maybe that example image was a fluke? Lets try another image, something complete
 * [red flower GIMP defaults 80% compression] [13] (1.45 mb)
 * [red flower GIMP defaults 70% compression] [14] (1.01 mb)
 * [red flower GIMP defaults 60% compression] [15] (808 kb)
-* [red flower GIMP tweaked 50% compression] [16] (442 kb)
+* [red flower GIMP tweaked 50% compression] [16] (483 kb)
 
 This image is a much higher resolution image, and I think, if I zoom in far enough on the uber compressed version (with smoothing and subsampling tweaked) I might eb starting to see some kind of distortion and/or visible loss of quality. However, this tool markets itself as a tool for optimising images for web sites. Who in their right mind is going to be hosting a 4928x3264 image as a web site asset at full resolution?
 
