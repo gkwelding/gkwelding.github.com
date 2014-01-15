@@ -27,7 +27,7 @@ Thankfully the technical details are what save this book. And luckily it's the t
 
 ## Installation ##
 
-This book is aimed squarely at the absolute FuelPHP beginner. And it hits that market spot on. It maybe goes a bit too far in as much as it tells you have to set up/configuration of Apache, PHP and Git. I think maybe the Installation section would have been better off starting 4 sections later at 'Getting and installing FuelPHP with curl and Oil'. This section and the sections after this though are all fantastic explanatory resources for the FuelPHP novice, including the concept of Oil that people who have never used Ruby on Rails or FuelPHP before will find highly confusing.
+This book is aimed squarely at the absolute FuelPHP beginner. And it hits that market spot on. It maybe goes a bit too far in as much as it tells you how to set up/configure Apache, PHP and Git. I think maybe the Installation section would have been better off starting 4 sections later at 'Getting and installing FuelPHP with curl and Oil'. This section and the sections after this though are all fantastic explanatory resources for the FuelPHP novice, including the concept of Oil that people who have never used Ruby on Rails or FuelPHP before will find highly confusing.
 
 The section on migrations disappointed me slightly as I feel it could have explained a little more the principles behind it, however I had high hopes for the 'migration examples' promised later on in the book.
 
